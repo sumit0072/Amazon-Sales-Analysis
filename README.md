@@ -20,4 +20,4 @@ commercial and business enterprise.</p>
 <h2>Solution Dashboard</h2>
 <p>Created a simple and informative dashboard about the Amazon Sales Analysis</p>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNmRlMDg1NTktNWQxNy00YTQxLWJmNmYtODY2NmU2NDM0NGYyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectionaed43aaac5d19943ebec">Visit Dashboard</a>
-<iframe width="1080" height="760" src="https://app.powerbi.com/view?r=eyJrIjoiNmRlMDg1NTktNWQxNy00YTQxLWJmNmYtODY2NmU2NDM0NGYyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectionaed43aaac5d19943ebec" frameborder="0"></iframe>
+<iframe width="1080" height="760" src="https://app.powerbi.com/view?r=eyJrIjoiNmRlMDg1NTktNWQxNy00YTQxLWJmNmYtODY2NmU2NDM0NGYyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectionaed43aaac5d19943ebec" frameborder="1"></iframe>
