@@ -22,4 +22,4 @@ commercial and business enterprise.</p>
 <a href="https://app.powerbi.com/viewr=eyJrIjoiNmRlMDg1NTktNWQxNy00YTQxLWJmNmYtODY2NmU2NDM0NGYyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectionaed43aaac5d19943ebec">Visit Dashboard</a>
 
 
-![Orig_Amazon_AdobeExpress](https://user-images.githubusercontent.com/61074737/235470551-6d3ba626-914b-4745-a207-5ffcb41be1b0.gif)
+![Orig_Amazon_AdobeExpress](https://user-images.githubusercontent.com/61074737/235471426-b1e38b09-bb2e-41b1-b2b5-a4c08d9bbaa2.gif)
