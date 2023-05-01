@@ -21,5 +21,5 @@ commercial and business enterprise.</p>
 <p>Created a simple and informative dashboard about the Amazon Sales Analysis</p>
 <a href="https://app.powerbi.com/viewr=eyJrIjoiNmRlMDg1NTktNWQxNy00YTQxLWJmNmYtODY2NmU2NDM0NGYyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectionaed43aaac5d19943ebec">Visit Dashboard</a>
 
-![Orig_Amazon_AdobeExpress](https://user-images.githubusercontent.com/61074737/235468269-2928d499-5459-46f2-9e85-4921ceddabb4.gif)
-<img src="https://user-images.githubusercontent.com/61074737/235468269-2928d499-5459-46f2-9e85-4921ceddabb4.gif" width="900" height="600">
+<img src="https://user-images.githubusercontent.com/61074737/235469884-4c67959e-03ae-4638-abca-4d1be4f66415.gif" width="900" height="600">
+![Orig_Amazon_AdobeExpress](https://user-images.githubusercontent.com/61074737/235469884-4c67959e-03ae-4638-abca-4d1be4f66415.gif)
