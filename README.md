@@ -20,7 +20,4 @@ commercial and business enterprise.</p>
 <h2>Solution Dashboard</h2>
 <p>Created a simple and informative dashboard about the Amazon Sales Analysis</p>
 <a href="https://app.powerbi.com/view?r=eyJrIjoiNmRlMDg1NTktNWQxNy00YTQxLWJmNmYtODY2NmU2NDM0NGYyIiwidCI6ImRmODY3OWNkLWE4MGUtNDVkOC05OWFjLWM4M2VkN2ZmOTVhMCJ9&pageName=ReportSectionaed43aaac5d19943ebec">Visit Dashboard</a>
-<object data=
-"https://github.com/sumit0072/Amazon-Sales-Analysis/blob/main/Amazon_Sales_Analysis.pdf" 
-                width="800" 
-                height="500"> 
+<img src="https://github.com/sumit0072/Amazon-Sales-Analysis/blob/main/Screenshot%20(54).png" width="750" height="450"> 
